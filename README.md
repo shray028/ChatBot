@@ -50,7 +50,6 @@ MAX_TOKENS=4096             # Response length limit
 
 **Error** | **Solution**
 --- | ---
-`KeyError: 'choices'` | Update model name in `.env`
 `JSONDecodeError` | Reduce PDF file size (<5MB recommended)
 
 ## Acknowledgements
